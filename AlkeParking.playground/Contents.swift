@@ -4,8 +4,6 @@
 
 import Foundation
 
-// exercicio 1
-
 enum VehicleType {
     case car
     case moto
